@@ -1,4 +1,4 @@
-文章的开始先打个广告，😋
+ 
 
 项目仓库地址：<https://github.com/konglingwen94/vue-bytedanceJob>
 
@@ -257,5 +257,5 @@ pm2 start app.js
 
 项目线上预览：<http://123.56.124.33:3000>
 
-文章作者：孔令文。
+文章作者：[孔令文](https://github.com/konglingwen94/project-articles-summary)。
 
