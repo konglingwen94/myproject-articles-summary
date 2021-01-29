@@ -40,7 +40,7 @@
 拿本项目中的`商品`表来说，这是一个声明好的mongoose`Schema`
 
 
-```json
+```js
  {
     name: String,
     price: Number,
